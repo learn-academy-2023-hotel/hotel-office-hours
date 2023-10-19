@@ -8,3 +8,4 @@
 ---
 ### So Far We've covered
 - Oct 11 - Git Flow practice
+- Oct 18 - HOFs Reveiw
