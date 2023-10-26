@@ -9,3 +9,4 @@
 ### So Far We've covered
 - Oct 11 - Git Flow practice
 - Oct 18 - HOFs Reveiw
+- Oct 25 - React State Reveiw (Color Box)
